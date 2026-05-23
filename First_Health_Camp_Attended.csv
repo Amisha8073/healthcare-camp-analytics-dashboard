@@ -1,0 +1,20 @@
+Emp ID,Employee,Department,Salary,Attendance %,Sales,Rating,BONUS COLUMN,BONUS COLUMN Amount,Status
+E101,Aisha,Sales,45000,96,120000,5,10%,4500,Excellent
+E102,Rahul,HR,38000,88,0,3,5%,1900,Average
+E103,Priya,Sales,52000,92,150000,4,10%,5200,Good
+E104,Arjun,IT,60000,98,0,5,5%,3000,Excellent
+E105,Sneha,Sales,47000,85,99000,2,5%,2350,Poor
+E106,Vikram,Finance,55000,90,0,4,5%,2750,Good
+E107,Neha,IT,62000,94,0,5,5%,3100,Excellent
+E108,Karan,Sales,43000,80,87000,2,5%,2150,Poor
+E109,Meera,HR,39000,89,0,3,5%,1950,Average
+E110,Dev,Sales,51000,97,160000,5,10%,5100,Excellent
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,Average attendance %,,,Number of employees in IT department,Total salary of Sales department,
+,,,,90.9,,,2,238000,
+,,,,,,,,,
+,,,,,,,,,
+,,,HIGHEST SALARY,,,,,,
+,,,62000,,,,,,
