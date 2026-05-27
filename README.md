@@ -23,7 +23,6 @@ The dashboard provides insights into:
 - Built KPI-based reporting dashboard
 
 ---
-
 ## Skills Demonstrated
 - Data Cleaning
 - Data Visualization
