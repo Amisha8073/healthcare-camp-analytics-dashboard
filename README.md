@@ -15,9 +15,7 @@ The dashboard provides insights into:
 - Excel
 - SQL
 - Looker Studio
-
 ---
-
 ## Key Insights
 - Analyzed donation distribution across health camps
 - Compared patient participation trends
